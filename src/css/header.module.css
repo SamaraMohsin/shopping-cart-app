@@ -1,0 +1,11 @@
+.navbar{
+    background-color:  #DAAD76;
+    height: 90px;
+}
+.img{
+    margin-left: 10px;
+    height: 90px;
+    /* width: 90px; */
+    justify-content: center;
+    align-items: center;
+}
